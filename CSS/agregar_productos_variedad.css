@@ -1,0 +1,80 @@
+
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Estilos para el nav */
+nav {
+    background-color: #071952;/* Color morado translúcido para el fondo del nav */
+    padding: 20px 10%; /* Ajusta el relleno del nav */
+    text-align: center; /* Alinea el texto al centro */
+    width: 100%; /* Establece el ancho del nav al 100% */
+    box-sizing: border-box; /* Incluye el relleno en el ancho total */
+}
+
+h1 {
+    color: white; /* Color del texto del encabezado */
+    font-size: 36px; /* Tamaño de fuente del encabezado */
+    font-weight: bold; /* Establece el peso del texto a negrita */
+    text-shadow: 2px 2px 4px rgba(139, 133, 133, 0.3); /* Agrega una sombra suave al texto */
+    letter-spacing: 1px; /* Espaciado entre letras */
+    margin: 0; /* Elimina el margen superior para evitar duplicación con el margen del nav */
+}
+
+/* Estilos para los botones */
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%; /* Ajustamos el ancho del contenedor */
+}
+
+.bontones {
+    display: flex;
+    flex-direction: column; /* Cambiamos la dirección del flex a columna */
+    align-items: center; /* Centramos horizontalmente los botones */
+    gap: 100px; /* Espacio entre los grupos de botones */
+}
+
+/* Estilo para cada fila de botones */
+.bontones-row {
+    display: flex;
+    justify-content: center;
+    gap: 50px; /* Espacio entre los botones */
+}
+
+.bontones button {
+    background-color: #efb810;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    width: 10em;
+    border-radius: 1rem;
+    color: black;
+    box-shadow: 0 0.4rem #664300;
+    cursor: pointer;
+    font-weight: bold; /* Hacemos el texto más remarcado */
+}
+
+.bontones button:active {
+    color: white;
+    box-shadow: 0 0.2rem #dfd9d9;
+    transform: translateY(0.2rem);
+}
+
+.bontones button:hover:not(:disabled) {
+    background: #a87b05;
+    color: white;
+    text-shadow: 0 0.1rem black;
+}
+
+.bontones button:disabled {
+    cursor: auto;
+    color: gray;
+}

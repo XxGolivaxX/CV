@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agregar producto</title>
+    <link rel="stylesheet" href="tapetes.css">
+</head>
+<body>
+    <nav>
+        <h1>Agregar producto Autoplus</h1>
+    </nav>
+    <form action="agregar_autoplus.php" method="POST" onsubmit="return validarCodigo()">
+        <label for="nombre_ap">Nombre:</label>
+        <input type="text" id="nombre_ap" name="nombre_ap" required oninput="this.value = this.value.charAt(0).toUpperCase() + this.value.slice(1)"><br>
+        <label for="piezas_ap">Piezas:</label>
+        <input type="text" id="piezas_ap" name="piezas_ap" required oninput="this.value = this.value.charAt(0).toUpperCase() + this.value.slice(1)"><br>
+        <label for="medida_ap">Medidas</label>
+        <input type="text" id="medida_ap" name="medida_ap" required pattern="[0-9]+(\.[0-9]+)?" title="Por favor, ingrese un valor numérico para la piezas_t"><br>
+        <label for="precio_ap">Precio:</label>
+        <input type="text" id="precio_ap" name="precio_ap" required pattern="[0-9]+(\.[0-9]+)?" title="Por favor, ingrese un valor numérico para el precio_t"><br>
+        <input type="submit" value="Guardar">
+        <input type="button" value="Cancelar" class="cancel-button" onclick="window.location.href='../PAGINAS/agregar_productos_variedad.html';">
+    </form>
+
+</body>
+</html>
