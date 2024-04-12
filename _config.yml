@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lizette Vazquez
-title: Ingeniera informatica junior
+title: Ingeniera informatica 
 email: golivaxd@gmail.com
 website: https://xxgolivaxx.github.io/CV/
 
@@ -21,11 +21,11 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: goliva_xd
+linkedin_username: goliva_xd
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: goliva_xd
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -52,36 +52,36 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>HTML</mark> and <mark>Playing videogames</mark>
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: in progress
-        link: 
+#content:
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+ #     - layout: top-middle
+   #     title: in progress
+    #    link: 
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+     #   additional_links:
+     #     - title:  sproogen/modern-resume-theme
+     #       icon: fab fa-github
+      #      url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
+       #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+       # quote: >
           
-        description: | # this will include new lines to allow paragraphs
+     #   description: | # this will include new lines to allow paragraphs
         
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: I don´t 
-        link: 
-        # link_text: boringcompany.com
-        sub_title: 
-        caption: 
-        quote: >
+#  - title: Experience # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+   #   - layout: left
+       # title: I don´t 
+     #   link: 
+     #   # link_text: boringcompany.com
+      #  sub_title: 
+     #   caption: 
+     #   quote: >
           
         description: | # this will include new lines to allow paragraphs
         
