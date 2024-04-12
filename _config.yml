@@ -18,15 +18,15 @@ darkmode: false
 twitter_username: facespics
 github_username:  sproogen
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+# dribbble_username: goliva_xd
+# facebook_username: goliva_xd
+# flickr_username: goliva_xd
 instagram_username: goliva_xd
 linkedin_username: goliva_xd
-# xing_username: jekyll
-# pinterest_username: jekyll
+# xing_username:goliva_xd
+# pinterest_username: goliva_xd
 youtube_username: goliva_xd
-# googleplus_username: +jekyll
+# googleplus_username: +goliva_xd
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -51,39 +51,6 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Lizette, I am currently studying university, throughout this I have acquired various knowledge but consider that there is still a lot to learn since knowledge allows us to expand our limits.
 
   I am most skilled in: <mark>HTML</mark> and <mark>Playing videogames</mark>
-
-#content:
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
- #     - layout: top-middle
-   #     title: in progress
-    #    link: 
-        # link_text: Project Website
-     #   additional_links:
-     #     - title:  sproogen/modern-resume-theme
-     #       icon: fab fa-github
-      #      url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-       #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-       # quote: >
-          
-     #   description: | # this will include new lines to allow paragraphs
-        
-
-#  - title: Experience # Title for the section
-  #  layout: list # Type of content section (list/text)
-  #  content:
-   #   - layout: left
-       # title: I don´t 
-     #   link: 
-     #   # link_text: boringcompany.com
-      #  sub_title: 
-     #   caption: 
-     #   quote: >
-          
-        description: | # this will include new lines to allow paragraphs
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
