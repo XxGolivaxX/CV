@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Lizette Vázquez
+name: Lizette Vázquez González
 title: Ingeniera en informatica
 email: golivaxd@gmail.com
 website: https://xxgolivaxx.github.io/CV/
@@ -18,22 +18,22 @@ darkmode: false
 twitter_username: goliva_xd
 github_username:  XxGolivaxX
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+# dribbble_username: goliva
+# facebook_username: goliva
+# flickr_username: goliva
 instagram_username: goliva_xd
 linkedin_username: golivaxd
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: NA
-# googleplus_username: +jekyll
+# xing_username: goliva
+# pinterest_username: goliva
+# youtube_username: NA
+# googleplus_username: goliva
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: na
+- title: My page
   icon: fas fa-globe
-  url: nothing
+  url: https://xxgolivaxx.github.io/goliva/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,20 +45,20 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Sobre mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name is Lizette, I am currently studying university, throughout this I have acquired various knowledge but consider that there is still a lot to learn since knowledge allows us to expand our limits.
+ Hola, soy Lizette, estudiante de Ingeniería Informática. 
+ Me considero una persona responsable, dedicada, y con facilidad para adaptarme a nuevos entornos. Disfruto trabajar en equipo y tengo una gran capacidad de aprendizaje. Además, soy hábil para resolver problemas y enfrentar desafíos de manera eficiente.
 
-
-  I am most skilled in: <mark>HTML</mark> and <mark>Playing videogames</mark>
+#Soy muy habil en: <mark></mark> and <mark>Playing videogames</mark>
 
 content:
-  - title: Courses # Title for the section
+  - title: Certificados # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome courses
+        title: Algunos cursos
         link: https://www.linkedin.com/in/golivaxd/
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -67,7 +67,12 @@ content:
         quote: >
           Learn and improve
         description: | # this will include new lines to allow paragraphs
-          These courses help me improve and practice. I don't have many recognitions yet, but you can see some directly from my linkedin profile.
+          Estos son algunos de los cursos que e tomado. 
+          #   icon: fab fa-github
+          #   url: https://courses.cognitiveclass.ai/certificates/a35949ad297343709fdaa06811b330b1
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
