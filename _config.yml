@@ -68,10 +68,6 @@ content:
           Learn and improve
         description: | # this will include new lines to allow paragraphs
           Estos son algunos de los cursos que e tomado. 
-          #   icon: fab fa-github
-          #   url: https://courses.cognitiveclass.ai/certificates/a35949ad297343709fdaa06811b330b1
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
           
 
   - title: Education # Title for the section
@@ -80,23 +76,22 @@ content:
       - layout: left
         title: Centro Universitario de Ciencias Exactas e Ingenierias
         caption: 2020 - present
-        sub_title: Computer Engineering
+        sub_title: Ingenieria informartica
         quote: >
-          CUCEI was created in 1994, based on the old faculties of Sciences, Chemical Sciences, Informatics and Computing and Engineering; in addition to the Wood, Pulp and Paper Institutes; Astronomy and Meteorology (IAM) and the Directorate of Linkage and Technology Transfer.
+          El CUCEI fue creado en 1994, con base en las antiguas facultades de Ciencias, Ciencias Químicas, Informática y Computación e Ingenierías; además de los Institutos de Madera, Celulosa y Papel; de Astronomía y Meteorología (IAM) y la Dirección de Vinculación y Transferencia de Tecnología.
         description: | # this will include new lines to allow paragraphs
-          I am currently a student and I spent most of my time studying, I consider this stage to be one of the most important since the effort I give is what defines my knowledge, so I try to be dedicated with this.
+          Actuamente soy estudiante y paso la mayor parte de mi tiempo en esta. Considero que es una etapa muy importante para mi ya que me ayuda a desarrollar mas mis conocimientos.
 
-  - title: A Little More About Me
+  - title: Un poco mas sobre mi
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in computer engineering some of my other interests and hobbies are:
-      - Playing videogames
-      - Ride a bike
-      - Drawing
-      - [Listen to my favorite artist](https://youtube.com/playlist?list=OLAK5uy_mG42_gxfZ-Cq6Y921XWm43Z75YAiaSIWI&si=NepL5ibwB2ItaEmW)
-
-      Look at this animation made by me
-      ![Pumpkin](/modern-resume-theme/images/CalabazaG1.jpg"Pumpkin")
+      Además de mis intereses en ingeniería informática, algunos de mis otros intereses y pasatiempos son:
+- Jugar videojuegos.
+- Andar en bicicleta.
+- Dibujar.
+- [Escuchar a mi artista favorito](https://youtube.com/playlist?list=OLAK5uy_mG42_gxfZ-Cq6Y921XWm43Z75YAiaSIWI&si=NepL5ibwB2ItaEmW)
+Mira esta animacion hecha por mi
+![Pumpkin](/modern-resume-theme/images/CalabazaG1.jpg"Pumpkin")
 
 # Footer
 footer_show_references: true
