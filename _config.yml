@@ -53,19 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 #I am most skilled in: <mark>HTML</mark> and <mark>Playing videogames</mark>
-# Habilidades
-  - title: Habilidades
-    layout: list
-    content:
-      - title: HTML, CSS, JavaScript
-        sub_title: Desarrollo web
-        description: | 
-          Tengo experiencia en la creación de sitios web utilizando HTML, CSS y JavaScript. Estoy en proceso de aprender frameworks como React para mejorar mis habilidades de desarrollo frontend.
-      
-      - title: Game Development
-        sub_title: Desarrollo de videojuegos
-        description: |
-          Interesada en el desarrollo de videojuegos. Experiencia básica en el uso de motores de juegos como Unity.
 
 content:
   - title: Cursos # Title for the section
