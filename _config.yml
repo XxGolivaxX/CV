@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Lizette Vázquez
+name: Lizette Vázquez González
 title: Ingeniera en informatica
 email: golivaxd@gmail.com
 website: https://xxgolivaxx.github.io/CV/
@@ -25,7 +25,7 @@ instagram_username: goliva_xd
 linkedin_username: golivaxd
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: NA
+#youtube_username: NA
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -33,7 +33,7 @@ youtube_username: NA
 additional_links:
 - title: na
   icon: fas fa-globe
-  url: nothing
+  url: https://xxgolivaxx.github.io/goliva/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,13 +48,27 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi, my name is Lizette, I am currently studying university, throughout this I have acquired various knowledge but consider that there is still a lot to learn since knowledge allows us to expand our limits.
+ Hola, soy Lizette, estudiante de Ingeniería Informática. 
+ Me considero una persona responsable, dedicada, y con facilidad para adaptarme a nuevos entornos. Disfruto trabajar en equipo y tengo una gran capacidad de aprendizaje. Además, soy hábil para resolver problemas y enfrentar desafíos de manera eficiente.
 
 
-  I am most skilled in: <mark>HTML</mark> and <mark>Playing videogames</mark>
+#I am most skilled in: <mark>HTML</mark> and <mark>Playing videogames</mark>
+# Habilidades
+  - title: Habilidades
+    layout: list
+    content:
+      - title: HTML, CSS, JavaScript
+        sub_title: Desarrollo web
+        description: | 
+          Tengo experiencia en la creación de sitios web utilizando HTML, CSS y JavaScript. Estoy en proceso de aprender frameworks como React para mejorar mis habilidades de desarrollo frontend.
+      
+      - title: Game Development
+        sub_title: Desarrollo de videojuegos
+        description: |
+          Interesada en el desarrollo de videojuegos. Experiencia básica en el uso de motores de juegos como Unity.
 
 content:
-  - title: Courses # Title for the section
+  - title: Cursos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
