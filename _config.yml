@@ -55,11 +55,11 @@ about_content: | # this will include new lines to allow paragraphs
 #I am most skilled in: <mark>HTML</mark> and <mark>Playing videogames</mark>
 
 content:
-  - title: Cursos # Title for the section
+  - title: Certificados # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome courses
+        title: Cursos
         link: https://www.linkedin.com/in/golivaxd/
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -68,7 +68,7 @@ content:
         quote: >
           Learn and improve
         description: | # this will include new lines to allow paragraphs
-          These courses help me improve and practice. I don't have many recognitions yet, but you can see some directly from my linkedin profile.
+         Estos cursos me ayudan a mejorar y practicar. Aún no tengo muchos reconocimientos, pero puedes ver algunos directamente desde mi perfil de linkedin o aqui.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -78,21 +78,20 @@ content:
         caption: 2020 - present
         sub_title: Computer Engineering
         quote: >
-          CUCEI was created in 1994, based on the old faculties of Sciences, Chemical Sciences, Informatics and Computing and Engineering; in addition to the Wood, Pulp and Paper Institutes; Astronomy and Meteorology (IAM) and the Directorate of Linkage and Technology Transfer.
+          El CUCEI fue creado en 1994, con base en las antiguas facultades de Ciencias, Ciencias Químicas, Informática y Computación e Ingenierías; además de los Institutos de Madera, Celulosa y Papel; de Astronomía y Meteorología (IAM) y la Dirección de Vinculación y Transferencia de Tecnología.
         description: | # this will include new lines to allow paragraphs
-          I am currently a student and I spent most of my time studying, I consider this stage to be one of the most important since the effort I give is what defines my knowledge, so I try to be dedicated with this.
+          Actualmente soy estudiante en CUCEI, dedicando gran parte de mi tiempo a adquirir conocimientos que me permitan desarrollarme como profesional en el ámbito de la informática.
 
-  - title: A Little More About Me
+  - title: Un poco mas sobre mi
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in computer engineering some of my other interests and hobbies are:
-      - Playing videogames
-      - Ride a bike
-      - Drawing
-      - [Listen to my favorite artist](https://youtube.com/playlist?list=OLAK5uy_mG42_gxfZ-Cq6Y921XWm43Z75YAiaSIWI&si=NepL5ibwB2ItaEmW)
-
-      Look at this animation made by me
-      ![Pumpkin](/modern-resume-theme/images/CalabazaG1.jpg"Pumpkin")
+      Además de mis intereses en ingeniería informática, algunos de mis otros intereses y pasatiempos son:
+      - Jugar videojuegos.
+      - Andar en bicicleta.
+      - Dibujar.
+      - [Escuchar a mi artista favorito](https://youtube.com/playlist?list=OLAK5uy_mG42_gxfZ-Cq6Y921XWm43Z75YAiaSIWI&si=NepL5ibwB2ItaEmW)
+      - Mira esta animación hecha por mí:
+        ![Pumpkin](/modern-resume-theme/images/CalabazaG1.jpg "Pumpkin")
 
 # Footer
 footer_show_references: true
