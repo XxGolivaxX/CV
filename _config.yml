@@ -12,7 +12,7 @@ email: golivaxd@gmail.com
 website: https://xxgolivaxx.github.io/CV/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: goliva_xd
@@ -56,6 +56,21 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Certificados # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Cursos
+        link: https://www.linkedin.com/in/golivaxd/
+        # link_text: Project Website
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Learn and improve
+        description: | # this will include new lines to allow paragraphs
+         Estos cursos me ayudan a mejorar y practicar. Aún no tengo muchos reconocimientos, pero puedes ver algunos directamente desde mi perfil de linkedin o aqui.
+
+- title: Certificados2 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
