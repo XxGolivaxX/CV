@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lizette Vázquez González
-title: Ingeniera en informatica
+title: Ingeniera en Informática
 email: golivaxd@gmail.com
 website: https://xxgolivaxx.github.io/CV/
 
@@ -17,85 +17,91 @@ darkmode: false
 # Social links
 twitter_username: goliva_xd
 github_username:  XxGolivaxX
-# stackoverflow_username: "00000001"
-# dribbble_username: goliva
-# facebook_username: goliva
-# flickr_username: goliva
 instagram_username: goliva_xd
 linkedin_username: golivaxd
-# xing_username: goliva
-# pinterest_username: goliva
-# youtube_username: NA
-# googleplus_username: goliva
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: My page
   icon: fas fa-globe
   url: https://xxgolivaxx.github.io/goliva/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Sobre mi
+about_title: Sobre mí
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
- Hola, soy Lizette, estudiante de Ingeniería Informática. 
- Me considero una persona responsable, dedicada, y con facilidad para adaptarme a nuevos entornos. Disfruto trabajar en equipo y tengo una gran capacidad de aprendizaje. Además, soy hábil para resolver problemas y enfrentar desafíos de manera eficiente.
+about_content: | 
+  Hola, soy Lizette, estudiante de Ingeniería Informática. 
+  Me considero una persona responsable, dedicada, y con facilidad para adaptarme a nuevos entornos. Disfruto trabajar en equipo y tengo una gran capacidad de aprendizaje. Además, soy hábil para resolver problemas y enfrentar desafíos de manera eficiente.
 
-#Soy muy habil en: <mark></mark> and <mark>Playing videogames</mark>
+# Resumen Profesional
+  - title: Resumen Profesional
+    layout: text
+    content: | 
+      Soy estudiante de Ingeniería en Informática con sólidos conocimientos en desarrollo web (HTML, CSS, JavaScript) y un interés constante por el aprendizaje continuo. Me motiva contribuir y crecer en la industria tecnológica, mientras desarrollo mis habilidades en programación y diseño de videojuegos.
 
-content:
-  - title: Certificados # Title for the section
-    layout: list # Type of content section (list/text)
+# Habilidades
+  - title: Habilidades
+    layout: list
+    content:
+      - title: HTML, CSS, JavaScript
+        sub_title: Desarrollo web
+        description: | 
+          Tengo experiencia en la creación de sitios web utilizando HTML, CSS y JavaScript. Estoy en proceso de aprender frameworks como React para mejorar mis habilidades de desarrollo frontend.
+      
+      - title: Game Development
+        sub_title: Desarrollo de videojuegos
+        description: |
+          Interesada en el desarrollo de videojuegos. Experiencia básica en el uso de motores de juegos como Unity.
+
+# Proyectos
+  - title: Proyectos
+    layout: list
+    content:
+      - layout: top-middle
+        title: Animación Pumpkin
+        link: https://xxgolivaxx.github.io/animation
+        quote: |
+          Desarrollo de una animación en Adobe After Effects.
+        description: | 
+          Creé una animación corta como parte de un proyecto personal, donde pude aplicar mis habilidades en diseño y animación.
+
+# Certificados
+  - title: Certificados
+    layout: list
     content:
       - layout: top-middle
         title: Algunos cursos
         link: https://www.linkedin.com/in/golivaxd/
-        # link_text: Project Website
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Learn and improve
-        description: | # this will include new lines to allow paragraphs
-          Estos son algunos de los cursos que e tomado. 
-          
+        description: | 
+          Estos son algunos de los cursos que he tomado.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+# Educación
+  - title: Educación
+    layout: list
     content:
       - layout: left
-        title: Centro Universitario de Ciencias Exactas e Ingenierias
+        title: Centro Universitario de Ciencias Exactas e Ingenierías
         caption: 2020 - present
-        sub_title: Ingenieria informartica
-        quote: >
-          El CUCEI fue creado en 1994, con base en las antiguas facultades de Ciencias, Ciencias Químicas, Informática y Computación e Ingenierías; además de los Institutos de Madera, Celulosa y Papel; de Astronomía y Meteorología (IAM) y la Dirección de Vinculación y Transferencia de Tecnología.
-        description: | # this will include new lines to allow paragraphs
-          Actuamente soy estudiante y paso la mayor parte de mi tiempo en esta. Considero que es una etapa muy importante para mi ya que me ayuda a desarrollar mas mis conocimientos.
+        sub_title: Ingeniería Informática
+        description: | 
+          Actualmente soy estudiante en CUCEI, dedicando gran parte de mi tiempo a adquirir conocimientos que me permitan desarrollarme como profesional en el ámbito de la informática.
 
-  - title: Un poco mas sobre mi
+# Aficiones e Intereses
+  - title: Aficiones e Intereses
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | 
       Además de mis intereses en ingeniería informática, algunos de mis otros intereses y pasatiempos son:
-- Jugar videojuegos.
-- Andar en bicicleta.
-- Dibujar.
-- [Escuchar a mi artista favorito](https://youtube.com/playlist?list=OLAK5uy_mG42_gxfZ-Cq6Y921XWm43Z75YAiaSIWI&si=NepL5ibwB2ItaEmW)
-Mira esta animacion hecha por mi
-![Pumpkin](/modern-resume-theme/images/CalabazaG1.jpg"Pumpkin")
+      - Jugar videojuegos.
+      - Andar en bicicleta.
+      - Dibujar.
+      - [Escuchar a mi artista favorito](https://youtube.com/playlist?list=OLAK5uy_mG42_gxfZ-Cq6Y921XWm43Z75YAiaSIWI&si=NepL5ibwB2ItaEmW)
+      - Mira esta animación hecha por mí:
+        ![Pumpkin](/modern-resume-theme/images/CalabazaG1.jpg "Pumpkin")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
